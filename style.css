@@ -95,6 +95,7 @@ body {
   cursor: pointer;
   -moz-box-shadow: inset 0px -5px 5px 0px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: inset 0px -5px 5px 0px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: none;
   box-shadow: inset 0px -5px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
